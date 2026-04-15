@@ -1,2 +1,7 @@
 #!/bin/bash
 pwd
+
+chmod +x basics/0-current_working_directory
+git add basics/0-current_working_directory
+git commit -m "fix permissions 0-current_working_directory"
+git push
